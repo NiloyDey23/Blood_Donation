@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">ProjectDemo</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    
+    <string-array name="Groups">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+
+    </string-array>
+
+    <string-array name="Areas">
+        <item></item>
+        <item>Mirpur DOSH</item>
+        <item>Mirpur Section-2</item>
+        <item>Pallabi</item>
+        <item>Rupnagar</item>
+        <item>Ibrahimpur</item>
+        <item>Mirpur Section-10</item>
+        <item>Mirpur Section-14</item>
+        <item>Mirpur Section-1</item>
+        <item>Mirpur</item>
+        <item>Sewrapara</item>
+        <item>Agargaon</item>
+        <item>Dhanmondi</item>
+        <item>Motijheel</item>
+        <item>Shahbag</item>
+        <item>Farmgate</item>
+        <item>Lalmatia</item>
+        <item>Mohammadpur</item>
+        <item>Dhanmondi</item>
+        <item>Malibag</item>
+        <item>Tejgaon</item>
+        <item>Bashundhara Residential Area</item>
+        <item>Gabtoli</item>
+        <item>Matuail</item>
+        <item>Uttara ABM city</item>
+        <item>Dhour</item>
+        <item>Bhatulia</item>
+        <item>Kamarpara</item>
+        <item>Bamnartek</item>
+        <item>Noa Nagar</item>
+        <item>Uttara Sector-10</item>
+        <item>Uttara Sector-11</item>
+        <item>Phulbaria</item>
+        <item>Uttara Residential Area</item>
+        <item>Uttara Sector-12</item>
+        <item>Uttara Sector-14</item>
+        <item>Uttara Sector-15</item>
+        <item>Uttara Sector-16</item>
+        <item>Uttara Sector-17</item>
+        <item>Uttara Sector-18</item>
+        <item>Uttara Sector-1</item>
+        <item>Uttara Sector-2</item>
+        <item>Mausaid</item>
+        <item>Rajabari</item>
+        <item>Masterbari</item>
+        <item>Mainertek</item>
+        <item>Faydabad</item>
+        <item>Utterkhan</item>
+        <item>Poradia</item>
+        <item>Chalaban</item>
+        <item>Dakshinkhan</item>
+        <item>Bhatira</item>
+        <item>Shonakhula</item>
+        <item>Ashiyan city</item>
+        <item>Mirpur Cantonment</item>
+        <item>Eastern Housing</item>
+        <item>BAF Kurmitola Cantonment</item>
+        <item>Balughat</item>
+        <item>Nikunja</item>
+        <item>Nirjhar</item>
+        <item>Palash Nagar</item>
+        <item>Shinepukur</item>
+        <item>Monipur</item>
+        <item>Ghulshan</item>
+        <item>Mohakhali</item>
+        <item>Kakrail</item>
+        <item>Sher-e-bangla nagar</item>
+        <item>Monipuripara</item>
+        <item>Merul</item>
+        <item>Mirbag</item>
+        <item>Shantibag</item>
+        <item>Ansarbag</item>
+        <item>Nandipara</item>
+        <item>Adarshabag</item>
+        <item>Bashabo</item>
+        <item>Khilgaon</item>
+        <item>Shabujbag</item>
+        <item>Rayer Bazar</item>
+        <item>Karwanbazar</item>
+    </string-array>
+    
+</resources>
